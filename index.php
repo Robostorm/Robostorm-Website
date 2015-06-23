@@ -5,7 +5,9 @@
 	  <?php require 'includes.php'; ?>
   </head>
 
-  <body>
+  <title>Robostorm Homepage</title>
+
+<body>
     
     <?php include 'header.php'; ?>
 
