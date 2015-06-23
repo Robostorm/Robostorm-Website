@@ -3,7 +3,9 @@
 
   <?php include 'includes.php'; ?>
 
-  <body>
+  <title>Robostorm Homepage</title>
+
+<body>
     
     <?php include 'header.php'; ?>
 
@@ -21,7 +23,7 @@
 	    Every year, we continue work on our perenial projects. These projects get improved from year to year, and are at every fair. The most noticable of these is the Aquabot, a robot that we drive aound the fair ground to sell water. Another project that we just added this year was the 3d printer. This will be at the fair every year, along with club members's 3d printers (Currently about five members have their own 3d printers). By continuously improving these projects, the club can explore new technologies to experiment of a platform that is already built. This gives the members a chance to try new ideas without building from scratch.
 	  </p>
 	  <p>
-	    In addition to the the perenial projects that stay from year to year, the club tries to work on some prohjects that will stay only for the current year, or maybe stick around for the next year. The gives members a chance to start fresh on something new, not worring about previous work. Last year, the club built an Arcade Machine to have some fun with a Raspberry Pi. THe Arcade Machine will also likly be around for this year as well.
+	    In addition to the the perenial projects that stay from year to year, the club tries to work on some prohjects that will stay only for the current year, or maybe stick around for the next year. The gives members a chance to start fresh on something new, not worring about previous work. Last year, the club built an Arcade Machine to have some fun with a Raspberry Pi. The Arcade Machine will also likly be around for this year as well.
 	  </p>
 	  <p>
 	    Furthermore, each club member is required to complete a personal project of some kind to show off at the fair. This could be anything from a simple Lego Mindstorms robot to an autonomous multirotor. This give each kid the chance to develop their own ideas, independent of other members. Although these are independant projects, every member is willing to help out others in times of difficulty. Each members creates a poster to go with their project to explain to visitors what their project does and how it works. 
