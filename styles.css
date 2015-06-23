@@ -64,6 +64,10 @@ footer div{
     background-color: #33CC33;
 }
 
+.dropdown-menu > .active > a {
+    background-color: #F6EB13;
+}
+
 .nav.navbar-nav li a {
     color: black;
     font-family: 'Ubuntu';

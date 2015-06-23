@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <?php include 'includes.php'; ?>
+  <?php require 'includes.php'; ?>
 
   <title>3D Printer</title>
 <body>
     
-    <?php include 'header.php'; ?>
+    <?php require 'header.php'; ?>
 
     <div class="container-fluid" id="body">      
       <div class="row">
