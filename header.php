@@ -16,7 +16,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home</a></li>
                 <li>
-                    <a href="projects.php" class="dropdown-toggle" data-toggle="dropdown" role="botton"
+                    <a href="projects.php" class="dropdown-toggle" data-toggle="dropdown" role="button"
                        aria-expanded="false">Projects <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                         <li><a href="aquabot.php">Aquabot</a></li>
@@ -26,9 +26,15 @@
                         <li><a href="arcade.php">Arcade Machine</a></li>
                     </ul>
                 </li>
-                <li><a href="members.php">Members</a></li>
+                <li>
+                    <a href="members.php" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                       aria-expanded="false">Members <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="http://forum.robostorm.org/" target="_blank">Forum</a></li>
+                        <li><a href="http://projects.robostorm.org/" target="_blank">Projects</a></li>
+                    </ul>
+                </li>
                 <li><a href="documents.php">Documents</a></li>
-                <li><a href="http://forum.robostorm.org/" target="_blank">Forum</a></li>
                 <li><a href="events.php">Events</a></li>
                 <li><a href="contact.php">Contact</a></li>
             </ul>
