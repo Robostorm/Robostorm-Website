@@ -24,4 +24,5 @@
     </div>
 </div>
 </body>
+<?php include 'js/active.php' ?>
 </html>

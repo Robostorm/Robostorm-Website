@@ -102,6 +102,6 @@
     </div>
     <p><b>Last updated: 5/25/2015</b></p>
 </footer>
-
+<?php include 'js/active.php' ?>
 </body>
 </html>

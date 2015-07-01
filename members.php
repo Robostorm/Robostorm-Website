@@ -20,5 +20,6 @@
         </div>
     </div>
 </div>
+<?php include 'js/active.php' ?>
 </body>
 </html>
