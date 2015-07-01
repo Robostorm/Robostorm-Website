@@ -48,17 +48,17 @@
 		<img class="clover" src="assets/4H_clover.png" alt="4H Clover">
 		<div style="display: inline-block">
 		  <p>
-		<b>
-		  Rutgers Cooperative Extention<br>
-		  4-H of Hunterdon County<br>
-		  <br>
-		  314 State Route 12, Building #2<br>
-		  P.O. Box 2900<br>
-		  Flemington NJ 08822<br>
-		  (908) 788-1341<br>
-		  <a href="mailto:hunterdon4h@co.hunterdon.nj.us" class="op">hunterdon4h@co.hunterdon.nj.us</a><br>
-		  <a href="http://www.co.hunterdon.nj.us/rutgers/4H.htm" target="_blank" class="op">http://www.co.hunterdon.nj.us/rutgers/4H.htm</a>
-		</b>
+			<b>
+			  Rutgers Cooperative Extention<br>
+			  4-H of Hunterdon County<br>
+			  <br>
+			  314 State Route 12, Building #2<br>
+			  P.O. Box 2900<br>
+			  Flemington NJ 08822<br>
+			  (908) 788-1341<br>
+			  <a href="mailto:hunterdon4h@co.hunterdon.nj.us" class="op">hunterdon4h@co.hunterdon.nj.us</a><br>
+			  <a href="http://www.co.hunterdon.nj.us/rutgers/4H.htm" target="_blank" class="op">http://www.co.hunterdon.nj.us/rutgers/4H.htm</a>
+			</b>
 		  </p>
 		</div>
 		<img class="clover"src="assets/4H_clover.png" alt="4H Clover">
