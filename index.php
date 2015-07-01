@@ -63,7 +63,7 @@
             </p>
         </div>
         <div class="col-md-4">
-            <img src="assets/turretweb.jpg">
+            <img src="assets/robot.jpg">
         </div>
     </div>
 </div>
@@ -73,10 +73,8 @@
         <a href="https://search.rutgers.edu/"><img src="assets/webbanner.jpg" alt="Rutgers" width="100%" border="0"></a>
     </div>
     <div class="text-center">
-        <img class="clover" src="assets/4H_clover.png" alt="4H Clover">
-
+            <img class="clover" src="assets/4H_clover.png" alt="4H Clover">
         <div style="display: inline-block">
-
             <p>
                 <b>
                     Rutgers Cooperative Extention<br>
