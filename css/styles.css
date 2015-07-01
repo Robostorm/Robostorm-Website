@@ -1,23 +1,23 @@
 body {
     background-color: #4BB648;
-    //background-image: url('images/noisy-texture-200x200-o15-d19-c-c7c7c7-t0.png');
+/ / background-image : url('images/noisy-texture-200x200-o15-d19-c-c7c7c7-t0.png');
 }
 
 #body {
     min-height: 500px;
 }
 
-#body img{
+#body img {
     width: 100%;
 }
 
 p {
     color: black;
-    font-family: Ubuntu;
+    font-family: Ubuntu, sans-serif;
 }
 
 h2 {
-    font-family: Ubuntu Mono Bold;
+    font-family: Ubuntu Mono Bold, sans-serif;
     color: black;
     margin-top: 10px;
     margin-bottom: 20px;
@@ -30,14 +30,11 @@ h2 {
 
 .clover {
     display: inline-block;
-    float: center;
     position: relative;
     top: -100px;
 }
 
-footer div{
-    float: center;
-    align: center;
+footer div {
     margin-left: auto;
     margin-right: auto;
 }
@@ -45,7 +42,7 @@ footer div{
 .navbar {
     background-color: #33CC33;
     color: black;
-    //height: 60px;
+/ / height : 60 px;
 }
 
 .navbar-nav {
@@ -70,10 +67,11 @@ footer div{
 
 .nav.navbar-nav li a {
     color: black;
-    font-family: 'Ubuntu';
+    font-family: 'Ubuntu', sans-serif;
     font-size: 1.2em;
-    height:60px;
+    height: 60px;
     padding: 18px;
+    text-decoration: none;
 }
 
 .nav.navbar-nav li a:hover {
@@ -103,13 +101,19 @@ footer div{
 }
 
 .navbar-toggle .icon-bar {
-  display: block;
-  width: 22px;
-  height: 2px;
-  background-color: #F6EB13;
-  border-radius: 1px;
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: #F6EB13;
+    border-radius: 1px;
 }
 
 a {
-  color: #B2B200;
+    color: #264d26;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #55701e;
+    text-decoration: underline;
 }
