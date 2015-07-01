@@ -20,7 +20,6 @@
                        aria-expanded="false">Projects <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                         <li><a href="aquabot.php">Aquabot</a></li>
-                        <li><a href="battlebots.php">BattleBots</a></li>
                         <li><a href="mazebots.php">MazeBots</a></li>
                         <li><a href="3dprinter.php">3d Printer</a></li>
                         <li><a href="arcade.php">Arcade Machine</a></li>
@@ -34,6 +33,7 @@
                         <li><a href="http://projects.robostorm.org/" target="_blank">Projects</a></li>
                     </ul>
                 </li>
+                <li><a href="battlebots.php">BattleBots</a></li>
                 <li><a href="documents.php">Documents</a></li>
                 <li><a href="events.php">Events</a></li>
                 <li><a href="contact.php">Contact</a></li>
