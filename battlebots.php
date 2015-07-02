@@ -21,10 +21,5 @@
     </div>
 </div>
 <?php include 'js/active.php' ?>
-<script type="text/javascript">
-    $("document").ready(function(){
-        $('a[href*="projects.php"]').addClass('active');
-    });
-</script>
 </body>
 </html>
