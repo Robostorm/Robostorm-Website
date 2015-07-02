@@ -34,7 +34,6 @@
                     </ul>
                 </li>
                 <li><a href="battlebots.php">Battlebots </a></li>
-                
                 <li><a href="documents.php">Documents</a></li>
                 <li><a href="events.php">Events</a></li>
                 <li><a href="contact.php">Contact</a></li>
