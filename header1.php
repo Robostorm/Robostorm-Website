@@ -15,7 +15,7 @@
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home</a></li>
-                <li>
+              <li>
                     <a href="projects.php" class="dropdown-toggle" data-toggle="dropdown" role="button"
                        aria-expanded="false">Projects <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
@@ -33,7 +33,7 @@
                         <li><a href="http://projects.robostorm.org/" target="_blank">Project Management</a></li>
                     </ul>
                 </li>
-                <li><a href="battlebots.php">BattleBots</a></li>
+                <li><a href="battlebots.php">Battlebots </a></li>
                 <li><a href="documents.php">Documents</a></li>
                 <li><a href="events.php">Events</a></li>
                 <li><a href="contact.php">Contact</a></li>
