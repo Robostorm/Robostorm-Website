@@ -17,8 +17,8 @@
                 <li>
                     4-H Fair 2015 August 19-23
                 </li>
-                <li>Battlebots August 20</li>
-                <li>Battlebots August 22</li>
+                <li>Battlebots August 20 at 4-H Fair</li>
+                <li>Battlebots August 22 at 4-H Fair</li>
             </ul>
         </div>
     </div>
