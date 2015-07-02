@@ -30,7 +30,7 @@
                        aria-expanded="false">Members <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                         <li><a href="http://forum.robostorm.org/" target="_blank">Forum</a></li>
-                        <li><a href="http://projects.robostorm.org/" target="_blank">Projects</a></li>
+                        <li><a href="http://projects.robostorm.org/" target="_blank">Project Management</a></li>
                     </ul>
                 </li>
                 <li><a href="battlebots.php">BattleBots</a></li>
